@@ -1,5 +1,5 @@
-Welcome to our Theme park
-
+**Welcome to our Theme park**
+	- You will find the exe for the simulation software in Jaamsim Simulator folder
 	- Open the .cfg file with JaamSim Simulator to visualize the system
 	- Click the run button to watch the theme park being alive with the movement of visitors
 	- In the menu bar find the Real Time Button
